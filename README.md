@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **AI, ML**
 
-- 👨‍💻 All of my projects are available at [https://anatoli.tech/)
+- 👨‍💻 All of my projects are available at https://anatoli.tech/
 
 - 📫 How to reach me **derese.anatoli@gmail.com**
 
